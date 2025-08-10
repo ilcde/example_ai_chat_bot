@@ -1,0 +1,3 @@
+first step : run file run_TRAINING.bat
+second step : run file run_TRAINING_2.bat
+finally if you want use the chat bot use the file run_GUI.bat

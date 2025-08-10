@@ -1,0 +1,27 @@
+@'
+# venv / OS
+.venv/
+venv/
+qlora-env/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# training outputs / models
+llm/lora-out/
+offload/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+
+# misc
+.ipynb_checkpoints/
+.env
+'@ | Out-File -Encoding UTF8 .gitignore
+
+git add .gitignore
+git rm --cached -r llm/lora-out
