@@ -66,7 +66,10 @@ python scripts/train_qlora.py
 ---
 
 ## 📸 Screenshots
-> *(Add your screenshots here)*
+> <img width="720" height="366" alt="image" src="https://github.com/user-attachments/assets/64d25261-ad32-4924-bd5e-88471f85c0d5" />
+<img width="820" height="395" alt="image" src="https://github.com/user-attachments/assets/624448d5-cd2c-4658-811c-6d779686a560" />
+
+
 
 ---
 
